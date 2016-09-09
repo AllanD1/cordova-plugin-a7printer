@@ -17,6 +17,9 @@ Install the plugin
     $ cd a7printer
     $ cordova plugin install ../cordova-plugin-a7printer
     
+If for only add to the project 
+
+    $ cordova plugin add ../cordova-plugin-a7printer --save
 
 Edit `www/js/index.js` and add the following code inside `onDeviceReady`
 
